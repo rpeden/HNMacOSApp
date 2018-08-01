@@ -1,5 +1,7 @@
 # HNMacOSApp
 
+React, JavaScript, C# 
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a felis et dolor porta mollis. Vestibulum ut leo nisl. Curabitur dictum euismod aliquet. Nullam bibendum ex semper metus elementum, eleifend volutpat urna pharetra. Aenean sit amet turpis mi. Etiam congue diam quis vehicula blandit. Fusce sit amet augue libero.
 
 Duis vel nunc rhoncus, pellentesque nunc imperdiet, laoreet enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis et pulvinar nunc. Donec a pellentesque quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent luctus justo ipsum, sit amet efficitur arcu gravida ut. Duis urna eros, vulputate rhoncus libero vel, iaculis elementum elit. Duis porta leo id massa condimentum dapibus. Morbi fringilla eu velit non venenatis. Maecenas nec interdum turpis. Nullam venenatis libero sed elementum porttitor. Duis in rhoncus nisi.
