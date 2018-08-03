@@ -1,7 +1,7 @@
 # HNMacOSApp
 
 ### Testing
-React, JavaScript, C#...!!!!
+React, JavaScript, C#, Pascal, Nothing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a felis et dolor porta mollis. Vestibulum ut leo nisl. Curabitur dictum euismod aliquet. Nullam bibendum ex semper metus elementum, eleifend volutpat urna pharetra. Aenean sit amet turpis mi. Etiam congue diam quis vehicula blandit. Fusce sit amet augue libero.
 
